@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "metalab/base",
+    "metalab/node"
+  ],
+  "rules": {
+    "import/no-unresolved": 0
+  }
+}
